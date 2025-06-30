@@ -1,0 +1,11 @@
+mystmd
+jupyter
+black[jupyter]
+ruff
+torch
+torchvision
+shap
+ucimlrepo
+matplotlib
+xgboost
+lightgbm
