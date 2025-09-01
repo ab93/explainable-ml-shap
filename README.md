@@ -33,17 +33,17 @@ jupyter notebook
 
 ### Bank Marketing (XGBoost + TreeSHAP)
 
-Dataset: Portuguese bank direct marketing campaigns
-Task: Predict term deposit subscription (binary classification)
-Model: XGBoost Classifier (AUC: 0.79)
-Explanation: TreeSHAP for fast, exact explanations
+- Dataset: Portuguese bank direct marketing campaigns
+- Task: Predict term deposit subscription (binary classification)
+- Model: XGBoost Classifier (AUC: 0.79)
+- Explanation: TreeSHAP for fast, exact explanations
 
 ### Human Activity Recognition (CNN + DeepSHAP)
 
-Dataset: Smartphone sensor data (accelerometer + gyroscope)
-Task: Classify 6 human activities (multiclass classification)
-Model: 1D CNN with PyTorch
-Explanation: DeepSHAP for neural network interpretability
+- Dataset: Smartphone sensor data (accelerometer + gyroscope)
+- Task: Classify 6 human activities (multiclass classification)
+- Model: 1D CNN with PyTorch
+- Explanation: DeepSHAP for neural network interpretability
 
 
 
