@@ -46,4 +46,16 @@ jupyter notebook
 - Explanation: DeepSHAP for neural network interpretability
 
 
+## Citing
+If you want to cite my work, please cite the paper:
+
+```
+@article{Basu2025ExplainingMP,
+  title={Explaining ML predictions with SHAP},
+  author={Avik Basu},
+  journal={Proceedings of the Python in Science Conference},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:282192526}
+}
+```
 
