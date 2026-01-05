@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the SciPy Proceedings paper (preferred). If you archive a release on Zenodo, you may also cite the software DOI."
+type: software
+title: "Explainable ML with SHAP (code & notebooks)"
+authors:
+  - family-names: Basu
+    given-names: Avik
+    email: avik_basu@intuit.com
+    orcid: "https://orcid.org/0009-0002-4489-378X"
+repository-code: "https://github.com/ab93/explainable-ml-shap"
+license: "Apache-2.0"
+keywords:
+  - SHAP
+  - explainable AI
+  - interpretability
+  - machine learning
+  - XGBoost
+  - PyTorch
+
+preferred-citation:
+  type: conference-paper
+  title: "Explaining ML predictions with SHAP"
+  authors:
+    - family-names: Basu
+      given-names: Avik
+      orcid: "https://orcid.org/0009-0002-4489-378X"
+  doi: "10.25080/mhum9729"
+  year: 2025
+  journal: "Proceedings of the Python in Science Conference"
