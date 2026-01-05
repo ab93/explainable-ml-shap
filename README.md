@@ -1,5 +1,5 @@
 # Beyond the Black Box: Interpreting ML Models with SHAP
-Materials from PyData Berlin 2025 talk on model interpretability using SHAP (SHapley Additive exPlanations).
+Materials from PyData Berlin 2025 talk and Scipy 2025 poster on model interpretability using SHAP (SHapley Additive exPlanations).
 
 ## Overview
 This repository contains code and slides demonstrating how to use SHAP for explaining machine learning models across different domains:
@@ -50,12 +50,13 @@ jupyter notebook
 If you want to cite my work, please cite the paper:
 
 ```
-@article{Basu2025ExplainingMP,
-  title={Explaining ML predictions with SHAP},
-  author={Avik Basu},
-  journal={Proceedings of the Python in Science Conference},
-  year={2025},
-  url={https://api.semanticscholar.org/CorpusID:282192526}
+@article{basu2025,
+  author = {Basu, Avik},
+  title = {Explaining ML predictions with SHAP},
+  journal = {Python in Science Conference, 2025},
+  year = {2025},
+  doi = {10.25080/mhum9729},
+  url = {https://doi.org/10.25080/mhum9729}
 }
 ```
 
