@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1010814642.svg)](https://doi.org/10.5281/zenodo.18158323)
+
+
 # Beyond the Black Box: Interpreting ML Models with SHAP
 Materials from PyData Berlin 2025 talk and Scipy 2025 poster on model interpretability using SHAP (SHapley Additive exPlanations).
 
